@@ -12,7 +12,7 @@ export const FooterApp = () => {
 					<Link to='/' className='flex items-center gap-x-2'>
 						<img
 							src='/images/logo.png'
-							alt='cabañar-el-tesoro-colegio'
+							alt='cabañas-el-tesoro-colegio'
 							className='w-[150px] h-[90px]'
 						/>
 					</Link>
@@ -22,7 +22,7 @@ export const FooterApp = () => {
 						variant='small'
 						className='mb-4 text-center font-normal text-blue-gray-900 md:mb-0 order-2 md:order-1'
 					>
-						&copy; {currentYear} Cabañar El Tesoro - Todos los derechos
+						&copy; {currentYear} Cabañas El Tesoro - Todos los derechos
 						reservados.
 					</Typography>
 					<div className='flex gap-4 text-blue-gray-900 sm:justify-center order-1 md:order-2 mb-4 md:mb-0'>
