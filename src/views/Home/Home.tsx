@@ -46,7 +46,6 @@ export const Home = () => {
 						En coveñas cada segundo es de felicidad, deja tu rutina y escápate a
 						vivir nuevas experiencias.
 					</p>
-
 					<ul className='list-outside'>
 						<li>Tour a las islas</li>
 						<li>Tour a la ciénaga la caimanera</li>
@@ -56,7 +55,7 @@ export const Home = () => {
 				</section>
 				<section className='py-4'>
 					<TitleComponent title='Servicios' />
-					<div className='flex flex-wrap gap-x-6 gap-y-6'>
+					<div className='flex flex-wrap flex-col gap-x-6 gap-y-6'>
 						<Fade>
 							<p className='flex items-center gap-x-2'>
 								<IconAire /> Aire acondicionado

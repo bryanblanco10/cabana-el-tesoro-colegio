@@ -7,18 +7,18 @@
 		},
 		{
 			"image": "/images/slider2.jpg",
-			"title": "¡Sumérgete en la magia tropical de la Costa Caribe!",
-			"subtitle": "Donde cada ola cuenta una historia y cada atardecer pinta un cuadro inolvidable."
+			"title": "¡Sumérgete en la magia tropical!",
+			"subtitle": "Donde cada ola cuenta una historia."
 		},
 		{
 			"image": "/images/slider3.jpg",
-			"title": "¡Explora la costa donde la naturaleza y la aventura se abrazan!",
-			"subtitle": "Bienvenido a la Costa Caribe, donde cada día es una nueva oportunidad para vivir una experiencia única"
+			"title": "¡Explora la costa!",
+			"subtitle": "Donde cada día es una nueva oportunidad para vivir una experiencia única"
 		},
 		{
 			"image": "/images/slider4.jpg",
-			"title": "¡En la Costa Caribe, la diversión nunca se pone en pausa!",
-			"subtitle": "Deja que la Costa Caribe te envuelva con su ritmo vibrante, su cultura colorida y sus playas que invitan a la relajación total."
+			"title": "¡La diversión nunca se pone en pausa!",
+			"subtitle": "Deja que la Costa Caribe te envuelva con su ritmo vibrante."
 		},
 		{
 			"image": "/images/slider5.jpg",
@@ -27,13 +27,13 @@
 		},
 		{
 			"image": "/images/slider6.jpg",
-			"title": "¡Vive la auténtica hospitalidad caribeña en cada rincón de la costa!",
-			"subtitle": "Desde emocionantes deportes acuáticos hasta tranquilos paseos por la playa, hay algo para todos los gustos."
+			"title": "¡Vive la auténtica hospitalidad caribeña!",
+			"subtitle": "Desde emocionantes deportes acuáticos hasta tranquilos paseos por la playa."
 		},
 		{
 			"image": "/images/slider7.jpg",
-			"title": "¡Regalarte momentos que perdurarán para siempre en tu corazón!",
-			"subtitle": "La Costa Caribe te espera con brazos abiertos, listos para mostrarte sus tesoros escondidos y "
+			"title": "¡Regalarte momentos que perdurarán para siempre!",
+			"subtitle": "Te espera con brazos abiertos."
 		}
 	]
 }
