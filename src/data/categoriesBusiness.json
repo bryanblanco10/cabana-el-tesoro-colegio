@@ -1,0 +1,92 @@
+{
+	"categoriesBusiness": [
+		{
+			"id": 1,
+			"category": 1,
+			"slug": "1-platos-fuertes",
+			"name": "Platos Fuertes",
+			"status": true,
+			"categoryBusiness": "restaurant"
+		},
+		{
+			"id": 2,
+			"category": 2,
+			"slug": "2-bebidas",
+			"name": "Bebidas",
+			"status": true,
+			"categoryBusiness": "restaurant"
+		},
+		{
+			"id": 3,
+			"category": 3,
+			"slug": "3-postres",
+			"name": "Postres",
+			"status": true,
+			"categoryBusiness": "restaurant"
+		},
+		{
+			"id": 4,
+			"category": 4,
+			"slug": "4-productos",
+			"name": "Productos",
+			"status": true,
+			"categoryBusiness": "barber"
+		},
+		{
+			"id": 5,
+			"category": 5,
+			"slug": "5-cortes",
+			"name": "Cortes",
+			"status": true,
+			"categoryBusiness": "barber"
+		},
+		{
+			"id": 6,
+			"category": 6,
+			"slug": "6-productos-nocturnos",
+			"name": "Productos nocturnos",
+			"status": true,
+			"categoryBusiness": "beauty"
+		},
+		{
+			"id": 7,
+			"category": 7,
+			"slug": "7-productos-diurnos",
+			"name": "Productos diurnos",
+			"status": true,
+			"categoryBusiness": "beauty"
+		},
+		{
+			"id": 8,
+			"category": 8,
+			"slug": "8-maquillaje",
+			"name": "Maquillaje",
+			"status": true,
+			"categoryBusiness": "beauty"
+		},
+		{
+			"id": 9,
+			"category": 9,
+			"slug": "9-esmaltes",
+			"name": "Esmaltes",
+			"status": true,
+			"categoryBusiness": "beauty"
+		},
+		{
+			"id": 10,
+			"category": 10,
+			"slug": "10-infantil",
+			"name": "Infantil",
+			"status": true,
+			"categoryBusiness": "drugstore"
+		},
+		{
+			"id": 11,
+			"category": 11,
+			"slug": "11-adultos",
+			"name": "Adultos",
+			"status": true,
+			"categoryBusiness": "drugstore"
+		}
+	]
+}

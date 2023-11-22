@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&family=Skranji:wght@700&display=swap');
+:root {
+	--color-primary: #F4E822;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #F7F7F7;
+	font-family: 'Poppins', sans-serif;
+}
+
+button {
+	white-space: nowrap !important;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.color-primary-app {
+	color: var(--color-primary) !important;
+}
+
+.bg-app {
+	background-color: var(--color-primary) !important;
+	color: white !important;
+}
+
+.bg-wpp {
+	background-color: #F4E822 !important;
+}
+
+.icon-social-media {
+	fill: var(--color-primary);
+}
+
+.icon-social-media:hover {
+	fill: #3E7294;
+}

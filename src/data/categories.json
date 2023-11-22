@@ -1,0 +1,44 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"category": 1,
+			"slug": "restaurantes",
+			"name": "Restaurantes",
+			"status": true,
+			"image": "/images/categories/restaurant.png",
+			"background": "/images/backgroundResta.jpg",
+			"categoryBusiness": "restaurant"
+		},
+		{
+			"id": 2,
+			"category": 2,
+			"slug": "belleza",
+			"name": "Belleza",
+			"status": true,
+			"image": "/images/categories/makeup.png",
+			"background": "/images/backgroundBelleza.avif",
+			"categoryBusiness": "beauty"
+		},
+		{
+			"id": 3,
+			"category": 3,
+			"slug": "barberias",
+			"name": "Barbería",
+			"status": true,
+			"image": "/images/categories/barber.png",
+			"background": "/images/backgroundbarberia.jpg",
+			"categoryBusiness": "barber"
+		},
+		{
+			"id": 4,
+			"category": 4,
+			"slug": "droguerias",
+			"name": "Droguerias",
+			"status": true,
+			"image": "/images/categories/drugstore.png",
+			"background": "/images/backgrounddrogueria.avif",
+			"categoryBusiness": "drugstore"
+		}
+	]
+}
